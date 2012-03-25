@@ -20,7 +20,7 @@ aufgenommen ist. Ca. 5 Minuten kneten. Der Teig sollte eine klebrig-reißende
 Konsistenz haben bei trockener Oberfläche. Wenn der Teig gut ist, löst er sich
 fast von selbst von den Fingern ab.
 
-Anschließend für ca. 45 Minuten abgedeckt von einem trockenen Handtucj warm 
+Anschließend für ca. 45 Minuten abgedeckt von einem trockenen Handtuch warm 
 stellen. Die Temperatur sollte 45° nicht übersteigen, da sonst die Hefepilze sterben.
 Eine Heizung ist gut geeignet, ebenso direktes Sonnenlicht oder ein E-Backofen, der
 auf 50° gestellt wurde (wahrscheinlich wird der in der Mitte weniger heiß).
