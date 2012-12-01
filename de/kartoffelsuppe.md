@@ -15,5 +15,5 @@ Franks Kartoffelsuppe (von meine Mudda)
 Gemüse (außer Kartoffeln) mit Margarine anbraten , dann Mehl dazu. Dann Brühe
 unter Rühren hinzu. Ca. 15 Min. bei mittlerer Hitze kochen lassen. Kartoffeln
 in kleine Stücke schneiden, rein und 15 Min. mitgaren lassen. Eigelbe mit 
-saurer Sahne und ein wenig Suppe mischen, dann in die Suppe rein. Porreeblätter,
+saurer Sahne und ein wenig Suppe mischen, dann in die Suppe rein. Sellerieblätter,
 falls vorhanden, mitkochen - sehr lecker. Nachwürzen mit Maggi.
