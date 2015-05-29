@@ -8,7 +8,7 @@ Ungarisches Sauerkraut
 * 3 gr. Zwiebeln
 * 1-2 EL Mehl
 * 3 EL Tomatenmark
-* 1 EL Rosenpaprika
+* 1 EL Paprika rosenscharf
 * 1 B. Sahne
 * 1-2 EL Rosenpaprika
 * Margarine zum Braten
