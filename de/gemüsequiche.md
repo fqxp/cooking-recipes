@@ -1,10 +1,10 @@
+# Teig
 * 250g Weizenmehl
 * 1 Eigelb
 * 1 Prise Salz
 * 4 EL Wasser
 * 125g Butter
 
-# Teig
 Mit Knethaken erst auf niedriger, dann auf höchster Stufe kneten. Dann
 auf der Arbeitsfläche zu einem glatten Teig kneten. 2/3 des Teiges auf
 dem Boden einer runden Form ausrollen, mit dem restlichen Teig eine Rolle
