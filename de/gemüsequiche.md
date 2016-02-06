@@ -15,7 +15,7 @@ ca. 15 Minuten vorbacken.
 # Belag
 * 1/2 grüne Paprika
 * 1/2 rote Paprika
-* 1 gr Chili
+* 1 große rote Chili
 * 6 Champignons
 * 1 kl. Zucchini
 * 10 Oliven
