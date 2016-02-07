@@ -1,4 +1,4 @@
-Vegetarischer Grünkohl, Grundrezept
+# Vegetarischer Grünkohl, Grundrezept
 
 * 1 kg Grünkohl TK
 * 1 kg Kartoffeln
