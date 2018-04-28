@@ -1,7 +1,7 @@
-Ziegenfrischkäse
-Palmhonig
-getrocknete Feigen
-Rosmarin
+* Ziegenfrischkäse
+* Palmhonig
+* getrocknete Feigen
+* Rosmarin
 
 Backofen vorheizen auf 200 °C. [mit Temperatur experimentieren!] 
 
