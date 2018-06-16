@@ -1,4 +1,5 @@
 # Schwarzwurzelrisotto
+*für 2 Personen*
 
 * 250g Schwarzwurzeln
 * 250g Risottoreis
