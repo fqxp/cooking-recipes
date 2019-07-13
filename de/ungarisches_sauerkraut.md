@@ -5,13 +5,14 @@ Ungarisches Sauerkraut
 * 2 Lorbeerblätter
 * 3 Wacholderbeeren
 * 3 gr. Zwiebeln
+* 2 EL Butter oder Margarine
 * 1-2 EL Mehl
 * 3 EL Tomatenmark
 * 1-2 EL Paprika rosenscharf
 * 1 B. Sahne
 * Öl zum Braten
 
-Sauerkraut mit Margarine, Lorbeerblättern und Wacholderbeeren 20 Min. kochen,
+Sauerkraut mit Butter oder Margarine, Lorbeerblättern und Wacholderbeeren 20 Min. kochen,
 dabei evtl. Wasser hinzugeben, damit es nicht anbrennt.
 
 Dann in einer Pfanne Fett erhitzen und die in halbe Ringe geschnittenen Zwiebeln
