@@ -8,5 +8,5 @@ layout: home
 Keine Kochrezepte:
 
 {% for recipe in site.recipes %}
-  * [{{ recipe.title }}]({{ recipe.url }})
+  * [{{ recipe.title }}]({{ recipe.url | relative_url }})
 {% endfor %}

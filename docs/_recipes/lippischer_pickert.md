@@ -1,9 +1,6 @@
 ---
 title: Lippischer Pickert
 ---
-Lippischer Pickert
-==================
-
 Sieht aus wie Pfannkuchen, ist aber nicht süß und aus Kartoffeln. Wird mit
 Butter gegessen, am besten schmeckt es, wenn die Butter nur halbzerflossen ist.
 
