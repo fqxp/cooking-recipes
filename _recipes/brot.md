@@ -1,16 +1,21 @@
 ---
 title: Brot
 ---
-Für 1 kg Brot:
 
-* 200g Weizenmehl Type 405
-* nicht mehr als 200g Schrot
+Dies ist ein Grundrezept. Die Anteile an verschiedenen Mehlen
+können angepasst werden, je nachdem, was man für ein Brot haben
+möchte.
+
+### Für 1 kg Brot:
+
+* 200g Weizenmehl Type 405,
+* nicht mehr als 200g Schrot,
 * variabel: 600g Mehl nach Wahl (möglichst Vollkorn, z. B. Dinkelmehl,
-  Roggenmehl, Weizenvollkorn, ...)
-* 1 Pkg. Trockenhefe
+  Roggenmehl, Weizenvollkorn, ...),
+* 1 Pkg. Trockenhefe und
 * 10g Salz
 
-Zutaten vermischen, zur Seite stellen.
+vermischen, zur Seite stellen.
 
 * 830-840ml Wasser mit
 * einer halben Limette oder Zitrone (oder Vitamin C-Tablette...)

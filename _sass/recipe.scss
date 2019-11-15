@@ -1,0 +1,45 @@
+$ingredient-line-height: 24px;
+$ingredient-margin-bottom: 8px;
+$ingredient-width: 30%;
+$ingredient-instruction-gap: 2%;
+
+/* Now, let's apply it on an element */
+.recipe {
+  h1 {
+    margin-left: $ingredient-width + $ingredient-instruction-gap;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  // h1:first-child+p {
+  //   margin-left: $ingredient-width + $ingredient-instruction-gap;
+  //   margin-top: 0;
+  //   line-height: 24px;
+  // }
+  ul {
+    max-width: $ingredient-width;
+    margin: 0;
+    list-style: none;
+    text-align: right;
+
+    li {
+      margin-bottom: $ingredient-margin-bottom;
+      line-height: $ingredient-line-height;
+      font-style: italic;
+    }
+  }
+  h3 {
+    max-width: $ingredient-width;
+    text-align: right;
+    font: $base-font-family;
+    font-size: $base-font-size;
+    font-weight: bold;
+  }
+  p {
+    margin-left: $ingredient-width + $ingredient-instruction-gap;
+    line-height: $ingredient-line-height;
+    font-size: $base-font-size;
+  }
+  ul+p {
+    margin-top: -$ingredient-line-height - $ingredient-margin-bottom;
+  }
+}

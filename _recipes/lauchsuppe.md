@@ -1,8 +1,6 @@
 ---
 title: Lauchsuppe
 ---
-# Lauchsuppe
-
 * 2 dicke Stangen Lauch
 * 4 Stängel glatte Petersilie
 * 4 Stängel frischer Thymian

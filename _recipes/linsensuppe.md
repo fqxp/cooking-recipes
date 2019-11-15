@@ -1,35 +1,33 @@
 ---
 title: Linsensuppe
 ---
-# Linsensuppe mit Kartoffeln
+### Für 4 Portionen
 
-## Zutaten
+* 250 g gewaschene Tellerlinsen,
+* 2 Möhren, gewürfelt,
+* 3 mittelgroße Kartoffeln, gewürfelt, und
+* 1 große Zwiebel, gehackt
 
-für 4 Portionen
+mit
 
-* 250 g Tellerlinsen
-* 2 Möhren
-* 3 Kartoffeln (mittelgroße)
-* 1 Zwiebel (große)
-* 1 Liter Wasser
-* 1 Lorbeerblatt
-* 1 EL Gemüsebrühe (für 1/2 Liter Wasser)
-* Salz
-* schwarzer Pfeffer
-* Kräuteressig (alternativ Obstessig)
+* 1 Lorbeerblatt mit
+* 1 l Gemüsebrühe
 
-## Zubereitung
-
-Die Linsen in eine Schüssel geben und mit Wasser waschen (Einweichen ist
-nicht notwendig). Die Möhren und Kartoffeln und die Zwiebel schälen und würfeln.
-
-Das Gemüse, die Linsen, Lorbeer, Brühwürfel und Wasser in einen großen
-Topf geben (am besten in einen 4-5 l Schnellkochtopf), Deckel auflegen
-und aufkochen. Im normalen Topf muss die Suppe ca. 40-45 min köcheln,
+in einen großen Topf geben (am besten in einen 4-5 l Schnellkochtopf), Deckel
+auflegen und aufkochen. Im normalen Topf muss die Suppe ca. 40-45 min köcheln,
 bis die Linsen weich sind; im Schnellkochtopf nur ca. 15 min.
 
-Wenn die Suppe nicht genug Flüssigkeit hat, noch etwas Wasser zugeben.
-Sind die Linsen weich, das Lorbeerblatt entfernen und die Suppe mit Salz
-und Pfeffer und evtl. etwas Instant-Gemüsebrühe abschmecken. Zum
-Abschmecken gehört auch ein ordentlicher Schuss Essig (er vollendet diese Suppe!).
+* Kräuteressig (alternativ Obstessig)
+
+Wenn die Suppe nicht genug Flüssigkeit hat, noch etwas Wasser zugeben.  Sind die
+Linsen weich, das Lorbeerblatt entfernen und die Suppe mit
+
+* Salz
+* schwarzer Pfeffer
+
+Zum Abschmecken gehört auch
+
+* ein ordentlicher Schuss Essig
+
+(er vollendet diese Suppe!).
 

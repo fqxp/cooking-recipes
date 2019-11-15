@@ -2,12 +2,25 @@
 title: Kartoffelsalat
 ---
 # Kartoffelsalat
-- 1kg Kartoffeln (gute)
-- 2 Zwiebeln
-- Mayonnaise selbstgemacht (evtl. verlängert mit Quark)
+* 1 kg Kartoffeln (gute)
 
-Kartoffeln mit Schale kochen, nicht zu weich, abkühlen lassen. Zwiebeln in wenig Weißweinessig
-dünsten, bis der Essig verdunstet ist.
+mit Schale kochen (nicht zu weich), abkühlen lassen.
 
-Geschnittene Kartoffeln, Salz und Pfeffer sowie Zwiebeln in einer Schüssel
-aufschichten.
+* 2 Zwiebeln
+
+in einem kleinen Topf in wenig
+
+* Weißweinessig dünsten, bis der Essig verdunstet ist.
+
+Geschnittene Kartoffeln abwechselnd mit den Zwiebeln in einer großen Schüssel
+aufschichten und jeweils mit
+
+* Salz und Pfeffer
+
+würzen.
+
+Mit
+
+* 400 g [Mayonnaise]({% link _recipes/mayonnaise.md %}) (evtl. verlängert mit Quark)
+
+vermengen. Fertig.

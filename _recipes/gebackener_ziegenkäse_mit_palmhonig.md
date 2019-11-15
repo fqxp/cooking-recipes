@@ -1,20 +1,25 @@
 ---
 title: Gebackener Ziegenkäse mit Palmhonig
 ---
-* Ziegenfrischkäse
-* Palmhonig
-* getrocknete Feigen
-* Rosmarin
-
 Backofen vorheizen auf 200 °C. [mit Temperatur experimentieren!]
 
-Ziegenkäse zu kleinen Talern formen. Anschließend die Taler aufs Backblech
+* Ziegenfrischkäse
+
+zu kleinen Talern formen. Anschließend die Taler aufs Backblech
 legen, ein wenig eindrücken, so dass eine Mulde ensteht.
-Ca. jeweils 1 TL Palmhonig in die Mulden träufeln.
+Ca. jeweils 1 TL
 
-Feigen würfeln und jeweils einige Würfel in die Mulden legen.
+* Palmhonig
 
-Mit Rosmarin würzen.
+in die Mulden träufeln.
+
+* getrocknete Feigen
+
+würfeln und jeweils einige Würfel in die Mulden legen. Mit
+
+* Rosmarin
+
+würzen.
 
 Max. 3 Minuten backen.
 
