@@ -1,9 +1,6 @@
 ---
 title: Ungarisches Sauerkraut
 ---
-Ungarisches Sauerkraut
-======================
-
 * 1 Dose Sauerkraut
 * 2 Lorbeerblätter
 * 3 Wacholderbeeren

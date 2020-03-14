@@ -1,14 +1,15 @@
 ---
 title: Möhrenkuchen
 ---
-# Möhrenkuchen
+Sehr lecker. Zuckerfrei.
 
-Sehr lecker.
+Ofen auf 200 °C vorheizen und eine Kastenform fetten.
 
-## Zutaten
+* 2 Eier und
+* 100 g braunen Zucker
 
-* 2 Eier
-* 100 g brauner Zucker
+mit dem Mixer verrühren.
+
 * 200 g Dinkelmehl
 * 1 Paket Backpulver 15 g
 * 1 Apfel, gerieben
@@ -17,12 +18,7 @@ Sehr lecker.
 * 100 g gehackte Mandeln
 * 2 TL Zimt
 
-## Zubereitung
-
-Ofen auf 200 °C vorheizen und eine Kastenform fetten.
-
-Eier und Zucker mit dem Mixer verrühren. Die weiteren Zutaten hinzufügen und rühren,
-bis alles gut vermischt ist.
+hinzufügen und rühren, bis alles gut vermischt ist.
 
 Die Kastenform fetten, den Teig hineingeben und 40 Minuten backen.
 

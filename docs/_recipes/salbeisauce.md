@@ -1,8 +1,6 @@
 ---
 title: Salbeisauce
 ---
-Salbeisauce
-===========
 Zu Pasta.
 
 * 200 g Schmelzkäse pur

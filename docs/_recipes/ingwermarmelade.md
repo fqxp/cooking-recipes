@@ -1,9 +1,6 @@
 ---
 title: Ingwermarmelade
 ---
-Ingwermarmelade
-===============
-
 * 250 g Ingwer
 
 schälen und die Schale dabei aufbewahren,

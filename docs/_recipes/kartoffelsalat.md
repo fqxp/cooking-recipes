@@ -1,7 +1,6 @@
 ---
 title: Kartoffelsalat
 ---
-# Kartoffelsalat
 * 1 kg Kartoffeln (gute)
 
 mit Schale kochen (nicht zu weich), abkühlen lassen.

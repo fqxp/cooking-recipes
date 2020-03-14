@@ -41,5 +41,5 @@ vermischen, mit
 
 würzen und und über der Gemüsemischung auf dem Teig verteilen.
 
-Bei 200°C weitere 20 Minuten backen, bis die Oberseite angebräunt ist.
+Bei 200 °C weitere 20 Minuten backen, bis die Oberseite angebräunt ist.
 Lässt sich gut wieder aufwärmen oder auch kalt essen.

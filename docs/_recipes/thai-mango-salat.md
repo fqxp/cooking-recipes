@@ -1,35 +1,49 @@
 ---
-title: Thai-mango-salat
+title: Thai-Mango-Salat
 ---
-# Thai-Mango-Salat
+Das Fruchtfleisch von
 
-## Zutaten
-* 2 reife Mangos
-* 2 rote Paprika
+* 2 reifen Mangos
+
+vom Kern lösen, horizontal und vertikal einschneiden und umklappen. Anschließend
+die Würfel von der Schale trennen und in eine Schüssel geben.
+
 * 1 rote Zwiebel
-* 50g Erdnüsse
+
+in möglichst schmale Streifen schneiden. Blätter von
+
 * 1 Bund Koriander
-* ½ Granatapfel (optional)
 
-### für die Salatsauce
-* 1 Limette
-* 1 rote Chili
-* 1-2 EL Sojasauce
-* 1 EL Olivenöl
-* 1 EL Reisessig
-* 1 TL Honig
+abzupfen und kleinschneiden.
 
-## Zubereitung
-Das Fruchtfleisch der Mangos vom Kern lösen, horizontal und vertikal
-einschneiden und umklappen. Anschließend die Würfel von der Schale trennen und
-in eine Schüssel geben
+* 1 Chilischote
 
-Zwiebel in möglichst schmale Streifen schneiden. Korianderblätter abzupfen und
-kleinschneiden. Chilischote kleinschneiden. Kerne der Granatapfelhälfte
+kleinschneiden. Kerne von
+
+* ½ Granatapfel
+
 herauslösen. Zwiebelstreifen, Korianderblätter, Chili und Granatapfelkerne in
 die Schüssel geben.
 
-Für die Salatsauce Limette auspressen und mit kleingehackter Chili, Sojasauce
-(abschmecken!), Olivenöl, Reisessig und Honig mischen und über den Salat geben.
-Vorsichtig umrühren. Die Erdnüsse leicht im Mörser zerstoßen, über den Salat
-verteilen und eine halbe Stunde ziehen lassen - fertig!
+* 2 rote Paprika
+
+in feine Streifen schneiden.
+
+
+* 50g Erdnüsse
+
+### Für die Salatsauce
+
+* Saft einer Limette
+* 1 gehackte rote Chili,
+* 1-2 EL Sojasauce (abschmecken!),
+* 1 EL Olivenöl,
+* 1 EL Reisessig und
+* 1 TL Honig
+
+mischen und über den Salat geben. Vorsichtig umrühren.
+
+* ca. 50 g Erdnüsse
+
+leicht im Mörser zerstoßen, über den Salat verteilen und eine halbe Stunde
+ziehen lassen - fertig!

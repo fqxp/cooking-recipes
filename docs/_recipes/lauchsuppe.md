@@ -1,21 +1,44 @@
 ---
 title: Lauchsuppe
 ---
-* 2 dicke Stangen Lauch
-* 4 Stängel glatte Petersilie
-* 4 Stängel frischer Thymian
-* 2 Lorbeerblätter
+Von
+
+* 2 dicken Stangen Lauch
+
+ein Außenblatt lösen,
+
+* 4 Stängel glatte Petersilie,
+* 4 Stängel frischer Thymian,
+* 2 Lorbeerblätter und
 * 8 schwarze Pfefferkörner
-* 0,5 kg Kartoffel
-* 60 g Butter
-* 1,2 l Gemüsebrühe
-* 1 Bund Schnittlauch
+
+darin einwickeln und mit einem Bindfaden zusammenschnüren (bouquet garni).
+
+Restlichen Lauch in Scheiben schneiden und gemeinsam
+
+* 0,5 kg Kartoffeln, geschält und gewürfelt,
+
+in
+
+* 60 g Butter und
 * 5 EL Olivenöl
-* Salz
+
+in einem großen Topf andünsten.
+
+* 1,2 l Gemüsebrühe
+
+hinzugeben und kochen, bis das Gemüse weich ist. Pürieren, mit
+
+* Salz und
 * Pfeffer
+
+abschmecken.
+
 * 1 Becher Schlagsahne
 
-# Zubereitung
+hinzugeben. Mit
 
-Vom Porree ein Außenblatt lösen, Petersilie, Thymian, Lorbeerb darin einwickeln und mit
-einem Bindfaden zusammenschnüren (bouquet garni).
+* 1 Bund Schnittlauch, geschnitten,
+
+garnieren und aufessen.
+

@@ -1,7 +1,6 @@
 ---
 title: Brot
 ---
-
 Dies ist ein Grundrezept. Die Anteile an verschiedenen Mehlen
 können angepasst werden, je nachdem, was man für ein Brot haben
 möchte.
@@ -33,7 +32,7 @@ zweimal seitlich falten, dann in der anderen Richtung ebenfalls zweimal falten
 und in eine Brotbackform legen. Brot mehrmals schräg einschneiden und nochmals
 bemehlen. Mit Alufolie abdecken.
 
-Brot in den auf 250°C vorgeheizten Backofen legen. Nach 10 Minuten auf 230°C
+Brot in den auf 250 °C vorgeheizten Backofen legen. Nach 10 Minuten auf 230 °C
 runterschalten und eine halbe Stunde backen. Dann Folie abnehmen und das Brot
 mit Wasser besprühen oder bestreichen. Dann weitere 10 Minuten backen, dann
 Backofen ausschalten und weitere 10 Minuten im Ofen lassen.

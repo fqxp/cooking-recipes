@@ -1,7 +1,6 @@
 ---
 title: Kartoffel-Porree-Suppe
 ---
-
 ### Für die Suppe
 
 Vom
