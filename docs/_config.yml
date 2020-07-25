@@ -8,7 +8,7 @@ email: Frank <mail@fqxp.de>
 description: >-
   Meine Kochrezepte.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cook.fqxp.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cook.fqxp.de" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: fqxp
 
