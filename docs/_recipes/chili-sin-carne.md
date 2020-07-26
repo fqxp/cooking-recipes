@@ -67,3 +67,5 @@ und
 * frisch gehackte Kräuter
 
 servieren.
+
+*Credits:* [Küchenchaotin](https://kuechenchaotin.de/chili-sin-carne/)

@@ -85,3 +85,5 @@ dem Grün der Frühlingszwiebel und je einem Schnitz von
 * 1 Limette
 
 servieren.
+
+*Credits:* [Küchenchaotin](https://kuechenchaotin.de/vegetarisches-pad-thai/)
